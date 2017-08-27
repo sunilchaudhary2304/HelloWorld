@@ -1,0 +1,6 @@
+D:\HelloWorld\HelloWorld\HelloWorldService\obj\Debug\HelloWorldAPI.csprojResolveAssemblyReference.cache
+D:\HelloWorld\HelloWorld\HelloWorldService\bin\Debug\HelloWorldAPI.dll.config
+D:\HelloWorld\HelloWorld\HelloWorldService\bin\Debug\HelloWorldAPI.dll
+D:\HelloWorld\HelloWorld\HelloWorldService\bin\Debug\HelloWorldAPI.pdb
+D:\HelloWorld\HelloWorld\HelloWorldService\obj\Debug\HelloWorldAPI.dll
+D:\HelloWorld\HelloWorld\HelloWorldService\obj\Debug\HelloWorldAPI.pdb

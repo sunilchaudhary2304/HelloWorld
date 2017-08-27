@@ -1,0 +1,12 @@
+D:\HelloWorld\HelloWorld\HelloWorldService\bin\Debug\HelloWorldService.dll.config
+D:\HelloWorld\HelloWorld\HelloWorldService\bin\Debug\HelloWorldService.dll
+D:\HelloWorld\HelloWorld\HelloWorldService\bin\Debug\HelloWorldService.pdb
+D:\HelloWorld\HelloWorld\HelloWorldService\bin\Debug\BusinessObjects.dll
+D:\HelloWorld\HelloWorld\HelloWorldService\bin\Debug\DataObjects.dll
+D:\HelloWorld\HelloWorld\HelloWorldService\bin\Debug\Encryption.dll
+D:\HelloWorld\HelloWorld\HelloWorldService\bin\Debug\BusinessObjects.pdb
+D:\HelloWorld\HelloWorld\HelloWorldService\bin\Debug\DataObjects.pdb
+D:\HelloWorld\HelloWorld\HelloWorldService\bin\Debug\Encryption.pdb
+D:\HelloWorld\HelloWorld\HelloWorldService\obj\Debug\HelloWorldService.csprojResolveAssemblyReference.cache
+D:\HelloWorld\HelloWorld\HelloWorldService\obj\Debug\HelloWorldService.dll
+D:\HelloWorld\HelloWorld\HelloWorldService\obj\Debug\HelloWorldService.pdb
