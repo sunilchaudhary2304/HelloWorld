@@ -1,0 +1,15 @@
+D:\HelloWorld\HelloWorld\Host.WCF.HelloWorldServer\bin\Host.WCF.HelloWorldServer.dll.config
+D:\HelloWorld\HelloWorld\Host.WCF.HelloWorldServer\bin\Host.WCF.HelloWorldServer.dll
+D:\HelloWorld\HelloWorld\Host.WCF.HelloWorldServer\bin\Host.WCF.HelloWorldServer.pdb
+D:\HelloWorld\HelloWorld\Host.WCF.HelloWorldServer\bin\HelloWorldService.dll
+D:\HelloWorld\HelloWorld\Host.WCF.HelloWorldServer\bin\DataObjects.dll
+D:\HelloWorld\HelloWorld\Host.WCF.HelloWorldServer\bin\BusinessObjects.dll
+D:\HelloWorld\HelloWorld\Host.WCF.HelloWorldServer\bin\Encryption.dll
+D:\HelloWorld\HelloWorld\Host.WCF.HelloWorldServer\bin\HelloWorldService.pdb
+D:\HelloWorld\HelloWorld\Host.WCF.HelloWorldServer\bin\HelloWorldService.dll.config
+D:\HelloWorld\HelloWorld\Host.WCF.HelloWorldServer\bin\DataObjects.pdb
+D:\HelloWorld\HelloWorld\Host.WCF.HelloWorldServer\bin\BusinessObjects.pdb
+D:\HelloWorld\HelloWorld\Host.WCF.HelloWorldServer\bin\Encryption.pdb
+D:\HelloWorld\HelloWorld\Host.WCF.HelloWorldServer\obj\Debug\Host.WCF.HelloWorldServer.csprojResolveAssemblyReference.cache
+D:\HelloWorld\HelloWorld\Host.WCF.HelloWorldServer\obj\Debug\Host.WCF.HelloWorldServer.dll
+D:\HelloWorld\HelloWorld\Host.WCF.HelloWorldServer\obj\Debug\Host.WCF.HelloWorldServer.pdb

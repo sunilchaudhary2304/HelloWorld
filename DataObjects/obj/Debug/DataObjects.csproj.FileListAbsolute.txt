@@ -1,0 +1,7 @@
+D:\HelloWorld\HelloWorld\DataObjects\bin\Debug\DataObjects.dll
+D:\HelloWorld\HelloWorld\DataObjects\bin\Debug\DataObjects.pdb
+D:\HelloWorld\HelloWorld\DataObjects\bin\Debug\BusinessObjects.dll
+D:\HelloWorld\HelloWorld\DataObjects\bin\Debug\BusinessObjects.pdb
+D:\HelloWorld\HelloWorld\DataObjects\obj\Debug\DataObjects.csprojResolveAssemblyReference.cache
+D:\HelloWorld\HelloWorld\DataObjects\obj\Debug\DataObjects.dll
+D:\HelloWorld\HelloWorld\DataObjects\obj\Debug\DataObjects.pdb

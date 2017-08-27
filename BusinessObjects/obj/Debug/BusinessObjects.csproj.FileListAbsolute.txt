@@ -1,0 +1,5 @@
+D:\HelloWorld\HelloWorld\BusinessObjects\bin\Debug\BusinessObjects.dll
+D:\HelloWorld\HelloWorld\BusinessObjects\bin\Debug\BusinessObjects.pdb
+D:\HelloWorld\HelloWorld\BusinessObjects\obj\Debug\BusinessObjects.dll
+D:\HelloWorld\HelloWorld\BusinessObjects\obj\Debug\BusinessObjects.pdb
+D:\HelloWorld\HelloWorld\BusinessObjects\obj\Debug\BusinessObjects.csprojResolveAssemblyReference.cache
