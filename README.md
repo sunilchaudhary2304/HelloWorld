@@ -1,0 +1,2 @@
+# HelloWorld
+This program can write Hello World to the console/screen using an API that is separated from the program logic to eventually support mobile applications, web applications, console applications or windows services that support future enhancements for writing to a database, console application, etc. Factory design patterns are used to account for these future concerns. Used configuration files or another industry standard mechanism for determining where to write the information to and Unit Testing is done by using MS Test to support the API.
