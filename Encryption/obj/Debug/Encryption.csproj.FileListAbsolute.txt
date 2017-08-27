@@ -1,0 +1,5 @@
+D:\HelloWorld\HelloWorld\Encryption\bin\Debug\Encryption.dll
+D:\HelloWorld\HelloWorld\Encryption\bin\Debug\Encryption.pdb
+D:\HelloWorld\HelloWorld\Encryption\obj\Debug\Encryption.dll
+D:\HelloWorld\HelloWorld\Encryption\obj\Debug\Encryption.pdb
+D:\HelloWorld\HelloWorld\Encryption\obj\Debug\Encryption.csprojResolveAssemblyReference.cache
