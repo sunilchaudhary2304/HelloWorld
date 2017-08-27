@@ -1,0 +1,9 @@
+D:\HelloWorld\HelloWorld\WindowsFormsApp\bin\Debug\WindowsFormsApp.exe.config
+D:\HelloWorld\HelloWorld\WindowsFormsApp\bin\Debug\WindowsFormsApp.exe
+D:\HelloWorld\HelloWorld\WindowsFormsApp\bin\Debug\WindowsFormsApp.pdb
+D:\HelloWorld\HelloWorld\WindowsFormsApp\obj\Debug\WindowsFormsApp.csprojResolveAssemblyReference.cache
+D:\HelloWorld\HelloWorld\WindowsFormsApp\obj\Debug\WindowsFormsApp.Properties.Resources.resources
+D:\HelloWorld\HelloWorld\WindowsFormsApp\obj\Debug\WindowsFormsApp.csproj.GenerateResource.Cache
+D:\HelloWorld\HelloWorld\WindowsFormsApp\obj\Debug\WindowsFormsApp.exe
+D:\HelloWorld\HelloWorld\WindowsFormsApp\obj\Debug\WindowsFormsApp.pdb
+D:\HelloWorld\HelloWorld\WindowsFormsApp\obj\Debug\WindowsFormsApp.HelloWorld.resources
