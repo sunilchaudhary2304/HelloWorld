@@ -1,0 +1,10 @@
+D:\HelloWorld\HelloWorld\ConsoleApp\bin\Debug\ConsoleApp.exe.config
+D:\HelloWorld\HelloWorld\ConsoleApp\bin\Debug\ConsoleApp.exe
+D:\HelloWorld\HelloWorld\ConsoleApp\bin\Debug\ConsoleApp.pdb
+D:\HelloWorld\HelloWorld\ConsoleApp\bin\Debug\BusinessObjects.dll
+D:\HelloWorld\HelloWorld\ConsoleApp\bin\Debug\DataObjects.dll
+D:\HelloWorld\HelloWorld\ConsoleApp\bin\Debug\BusinessObjects.pdb
+D:\HelloWorld\HelloWorld\ConsoleApp\bin\Debug\DataObjects.pdb
+D:\HelloWorld\HelloWorld\ConsoleApp\obj\Debug\ConsoleApp.csprojResolveAssemblyReference.cache
+D:\HelloWorld\HelloWorld\ConsoleApp\obj\Debug\ConsoleApp.exe
+D:\HelloWorld\HelloWorld\ConsoleApp\obj\Debug\ConsoleApp.pdb
